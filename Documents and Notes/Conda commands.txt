@@ -1,0 +1,5 @@
+conda info --envs # To check current enviorments
+conda create -n opencvimage python=3.10 # create a new enviorment with specific python version opencvimage is the enviorment name
+conda activate opencvimage # activate the enviorment #opencvimage is the enviorment name
+conda deactivate # deactivate the enviorment
+pip list # to find all the libraries installed and their version
